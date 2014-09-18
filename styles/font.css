@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'HeliosExtLight';
+    src:url('../fonts/HeliosExtLight/HeliosExtLight.eot');
+    src:url('../fonts/HeliosExtLight/HeliosExtLight.eot') format('embedded-opentype'),
+    url('../fonts/HeliosExtLight/HeliosExtLight.woff') format('woff'),
+    url('../fonts/HeliosExtLight/HeliosExtLight.ttf') format('truetype'),
+    url('../fonts/HeliosExtLight/HeliosExtLight.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HeliosThin';
+    src:url('../fonts/HeliosThin/HeliosThin.eot');
+    src:url('../fonts/HeliosThin/HeliosThin.eot') format('embedded-opentype'),
+    url('../fonts/HeliosThin/HeliosThin.woff') format('woff'),
+    url('../fonts/HeliosThin/HeliosThin.ttf') format('truetype'),
+    url('../fonts/HeliosThin/HeliosThin.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'HeliosExtThin';
+    src:url('../fonts/HeliosExtThin/HeliosExtThin.eot');
+    src:url('../fonts/HeliosExtThin/HeliosExtThin.eot') format('embedded-opentype'),
+    url('../fonts/HeliosExtThin/HeliosExtThin.woff') format('woff'),
+    url('../fonts/HeliosExtThin/HeliosExtThin.ttf') format('truetype'),
+    url('../fonts/HeliosExtThin/HeliosExtThin.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

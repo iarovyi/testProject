@@ -1,0 +1,102 @@
+* { margin: 0; padding: 0; font-family: "HeliosExtLight"; }
+a { text-decoration: none; }
+.fl { float: left; }
+.fr { float: right; }
+.center { margin: 0 auto; }
+body { background: url("../images/background.png") center 115%; }
+
+p, h1, h2, span { text-transform: uppercase; }
+a, p, #content h2 { color: #333; }
+
+#header {
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    z-index: 900;
+    box-shadow: 0px 0px 5px 0px rgba(78, 77, 77, 1);
+}
+
+.center {
+    margin: 0 auto;
+    max-width: 1165px;
+}
+
+.icon-logo:before {
+    position: absolute;
+}
+
+.nav > a.logo.icon-logo {
+    float: left;
+    height: 5.31em;
+    padding-top: 0.94em;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.logo div {
+    padding-left: 60px;
+    font-family: "HeliosExtThin";
+}
+.logo-text-big {
+    font-size: 26px;
+    padding-top: 10px;
+}
+
+.logo-text-small {
+    font-size: 5px;
+    letter-spacing: 1px;
+    margin-left: 1px;
+}
+
+.contacts {
+    float: right;
+    width: 285px;
+    height: 85px;
+}
+
+.nav > a, .nav > p {
+    font-family: "HeliosThin";
+    font-size: 16px;
+    padding: 33px 15px;
+}
+
+#content {
+    position: relative;
+    overflow: hidden;
+    top: 220px;
+    max-width: 515px;
+    height: auto;
+    background-color: #fff;
+    margin: 0 auto 80px auto;
+    padding: 45px 90px 10px 90px;
+}
+
+h1 {
+    font-size: 42px;
+    color: #BFD12F;
+    font-family: "HeliosExtThin";
+    font-weight: 500;
+}
+h2 {
+    font-size: 14px;
+    padding-top: 20px;
+    font-weight: 500;
+}
+
+#content p {
+    font-size: 10px;
+    padding-top: 15px;
+}
+
+#content a {
+    display: inline-block;
+    margin: 25px 191px;
+    text-decoration: underline;
+}
+#content a:hover { text-decoration: none; }
+
+@media screen and (max-width: 540px) {
+    .nav a, .nav p {  padding: 12px 15px; }
+    #content { padding: 30px 30px 10px 30px; }
+    #content a { margin: 25px auto; }
+}
