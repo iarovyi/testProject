@@ -8,3 +8,4 @@ D:\PROJECTS\testProject\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleAppl
 D:\PROJECTS\testProject\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.exe
 D:\PROJECTS\testProject\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.pdb
 D:\PROJECTS\testProject\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.csprojResolveAssemblyReference.cache
+D:\PROJECTS\testProject\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.exe.config
