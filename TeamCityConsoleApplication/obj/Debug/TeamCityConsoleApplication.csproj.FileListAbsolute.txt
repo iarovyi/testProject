@@ -1,0 +1,10 @@
+D:\PROJECTS\testProject\TeamCityConsoleApplication\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.exe
+D:\PROJECTS\testProject\TeamCityConsoleApplication\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.pdb
+D:\PROJECTS\testProject\TeamCityConsoleApplication\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.csprojResolveAssemblyReference.cache
+D:\PROJECTS\testProject\TeamCityConsoleApplication\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.exe
+D:\PROJECTS\testProject\TeamCityConsoleApplication\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.pdb
+D:\PROJECTS\testProject\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.exe
+D:\PROJECTS\testProject\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.pdb
+D:\PROJECTS\testProject\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.exe
+D:\PROJECTS\testProject\TeamCityConsoleApplication\bin\Debug\TeamCityConsoleApplication.pdb
+D:\PROJECTS\testProject\TeamCityConsoleApplication\obj\Debug\TeamCityConsoleApplication.csprojResolveAssemblyReference.cache
