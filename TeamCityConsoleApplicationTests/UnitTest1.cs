@@ -18,7 +18,7 @@ namespace TeamCityConsoleApplicationTests
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.AreEqual(15, 15);
+            Assert.AreEqual(15, 16);
         }
     }
 }
