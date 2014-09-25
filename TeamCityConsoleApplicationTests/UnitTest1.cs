@@ -1,19 +1,21 @@
 ﻿using System;
-using NUnit;
-using NUnit.Framework;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TeamCityConsoleApplicationTests
 {
-    [TestFixture]
+    [TestClass]
+    //[TestFixture]
     public class UnitTest1
     {
-        [Test]
+        //[Test]
+        [TestMethod]
         public void TestMethod1()
         {
             Assert.AreEqual(10, 10);
         }
 
-        [Test]
+        //[Test]
+        [TestMethod]
         public void TestMethod2()
         {
             Assert.AreEqual(15, 15);
