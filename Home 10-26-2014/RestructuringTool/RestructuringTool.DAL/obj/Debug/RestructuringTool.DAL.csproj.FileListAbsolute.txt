@@ -1,0 +1,10 @@
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\RestructuringTool.DAL.dll.config
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\RestructuringTool.DAL.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\RestructuringTool.DAL.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\EntityFramework.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\EntityFramework.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\obj\Debug\RestructuringTool.DAL.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\obj\Debug\RestructuringTool.DAL.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.DAL\obj\Debug\RestructuringTool.DAL.csprojResolveAssemblyReference.cache

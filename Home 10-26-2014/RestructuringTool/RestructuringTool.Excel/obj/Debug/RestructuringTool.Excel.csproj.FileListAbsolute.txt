@@ -1,0 +1,17 @@
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\obj\Debug\RestructuringTool.Excel.csprojResolveAssemblyReference.cache
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\RestructuringTool.Excel.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\RestructuringTool.Excel.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.OOXML.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.OpenXml4Net.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\RestructuringTool.DAL.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\EntityFramework.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\RestructuringTool.DAL.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.OOXML.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\NPOI.OpenXml4Net.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\bin\Debug\EntityFramework.xml
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\obj\Debug\RestructuringTool.Excel.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.Excel\obj\Debug\RestructuringTool.Excel.pdb

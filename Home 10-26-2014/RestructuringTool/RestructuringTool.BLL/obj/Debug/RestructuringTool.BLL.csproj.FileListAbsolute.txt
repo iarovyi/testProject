@@ -1,0 +1,5 @@
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.BLL\bin\Debug\RestructuringTool.BLL.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.BLL\bin\Debug\RestructuringTool.BLL.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.BLL\obj\Debug\RestructuringTool.BLL.dll
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.BLL\obj\Debug\RestructuringTool.BLL.pdb
+E:\PROJECTS\RestructuringTool\RestructuringTool\RestructuringTool.BLL\obj\Debug\RestructuringTool.BLL.csprojResolveAssemblyReference.cache
