@@ -127,6 +127,25 @@ GO
 
 
 
+public static void RunMigration()
+        {
+            var migrationConfiguration = new Configuration();
+            var migrator = new DbMigrator(migrationConfiguration);
+
+            if (migrator.GetPendingMigrations().Any())
+            {
+                migrator.Update();    
+            }
+        }
+
+        public static string CreateScriptFromMigration()
+        {
+            var migrationConfig = new Configuration();
+            var migrator = new DbMigrator(migrationConfig);
+            var scriptor = new MigratorScriptingDecorator(migrator);
+            return scriptor.ScriptUpdate(sourceMigration: null, targetMigration: null);
+        }
+
 
 
 
