@@ -1,3 +1,7 @@
+
+http://stackoverflow.com/questions/2057146/compiler-ambiguous-invocation-error-anonymous-method-and-method-group-with-fun
+
+
 /*
 
 CREATE TABLE [dbo].[JobLog](
