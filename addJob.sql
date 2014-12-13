@@ -1,3 +1,7 @@
+
+http://stackoverflow.com/questions/2057146/compiler-ambiguous-invocation-error-anonymous-method-and-method-group-with-fun
+
+
 /*
 
 CREATE TABLE [dbo].[JobLog](
@@ -126,6 +130,25 @@ EXEC dbo.sp_add_jobserver
 GO
 
 
+
+public static void RunMigration()
+        {
+            var migrationConfiguration = new Configuration();
+            var migrator = new DbMigrator(migrationConfiguration);
+
+            if (migrator.GetPendingMigrations().Any())
+            {
+                migrator.Update();    
+            }
+        }
+
+        public static string CreateScriptFromMigration()
+        {
+            var migrationConfig = new Configuration();
+            var migrator = new DbMigrator(migrationConfig);
+            var scriptor = new MigratorScriptingDecorator(migrator);
+            return scriptor.ScriptUpdate(sourceMigration: null, targetMigration: null);
+        }
 
 
 
