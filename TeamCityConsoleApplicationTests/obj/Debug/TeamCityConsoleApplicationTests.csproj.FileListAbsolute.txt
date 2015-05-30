@@ -1,5 +1,0 @@
-D:\PROJECTS\testProject\TeamCityConsoleApplicationTests\bin\Debug\TeamCityConsoleApplicationTests.dll
-D:\PROJECTS\testProject\TeamCityConsoleApplicationTests\bin\Debug\TeamCityConsoleApplicationTests.pdb
-D:\PROJECTS\testProject\TeamCityConsoleApplicationTests\obj\Debug\TeamCityConsoleApplicationTests.csprojResolveAssemblyReference.cache
-D:\PROJECTS\testProject\TeamCityConsoleApplicationTests\obj\Debug\TeamCityConsoleApplicationTests.dll
-D:\PROJECTS\testProject\TeamCityConsoleApplicationTests\obj\Debug\TeamCityConsoleApplicationTests.pdb
